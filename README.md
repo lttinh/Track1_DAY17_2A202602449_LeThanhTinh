@@ -323,9 +323,9 @@ Không dùng probe để gợi ý rằng người tham gia “chắc hẳn mất
 
 | Vai trò | Phân công | Trạng thái |
 | :-- | :-- | :-- |
-| Người phỏng vấn | Lê Thành Tính | Đã xác định |
+| Người phỏng vấn | Lê Thanh Tình | Đã xác định |
 | Người tham gia | P01 — mã ẩn danh | Đã thực hiện lượt phỏng vấn |
-| Người ghi chú/nghe lại | Lê Thành Tính | Đã tạo `interview/notes.md` |
+| Người ghi chú/nghe lại | Lê Thanh Tình | Đã tạo `interview/notes.md` |
 
 ### Checkpoint 2 — Interview-ready
 
